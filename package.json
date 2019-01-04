@@ -1,0 +1,24 @@
+{
+  "name": "@ats/jobadder-api",
+  "version": "0.0.1",
+  "description": "JobAdder API (v2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliymashkov/jobadder-api.git"
+  },
+  "keywords": [
+    "ATS",
+    "JobAdder",
+    "API"
+  ],
+  "author": "Vitaliy Mashkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitaliymashkov/jobadder-api/issues"
+  },
+  "homepage": "https://github.com/vitaliymashkov/jobadder-api#readme"
+}
