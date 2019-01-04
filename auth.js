@@ -1,6 +1,6 @@
 let request = require('request');
 let qs = require('querystring');
-let openapi = require('../jobadder-openapi-v2');
+let openapi = require('./jobadder-openapi-v2');
 class AuthApi {
   constructor(config) {
     this.config = config;
